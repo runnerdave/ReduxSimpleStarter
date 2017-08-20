@@ -1,3 +1,5 @@
+**_this is the vanilla version of the fork_**
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
