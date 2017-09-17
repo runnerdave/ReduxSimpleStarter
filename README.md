@@ -1,5 +1,7 @@
 **_this is the vanilla version of the fork_**
 
+uses React v 15, use this one as a boilerplate code and not redux-simple-starter
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
